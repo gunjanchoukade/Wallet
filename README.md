@@ -1,5 +1,7 @@
 # Personal Finance Management Project - Frontend 💰 📊
 
+deployed link = wallet-app-teamloremipsum.netlify.app/
+
 ## _Project Description_ 📚
 
 The Personal Finance Management Project is an application created using React and Vite technologies. The application allows users to efficiently manage their finances, including adding, editing, and deleting transactions, as well as displaying them in a diagram divided into categories. The project also includes registration, login, and authentication features using the Google API. User data is securely stored in a MongoDB database.
